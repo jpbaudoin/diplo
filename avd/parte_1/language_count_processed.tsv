@@ -1,199 +1,205 @@
-frequency	count	LangFixed	TiobeMatch	LangFinal	Comment
-sql	2502		SQL	SQL	
-javascript	2281		JavaScript	JavaScript	
-html	1642	markup	#N/A	markup	
-python	1623		Python	Python	
-css	1108	markup	#N/A	markup	
-java	1075		Java	Java	
-typescript	1061		TypeScript	TypeScript	
-	965	NA	#N/A	NA	
-bash/shell	898	bash	#N/A	bash	
-.net	688	Visual Basic	#N/A	Visual Basic	
-php	668		PHP	PHP	
-c#	586		C#	C#	
-go	314		Go	Go	
-vba	182	Visual Basic	#N/A	Visual Basic	
-c++	164		C++	C++	
-kotlin	144		Kotlin	Kotlin	
-c	111		C	C	
-groovy	109		Groovy	Groovy	
-r	96		R	R	
-ruby	91		Ruby	Ruby	
-arduino	59	C++	#N/A	C++	Arduino uses a variant of the C++ programming language. The code is written in C++ with an addition of special methods and functions.
-scala	58		Scala	Scala	
-cobol	57		COBOL	COBOL	
-swift	54		Swift	Swift	
-abap	52		ABAP	ABAP	
-dart	39		Dart	Dart	
-perl	34		Perl	Perl	
-rust	33		Rust	Rust	
-solidity	29		Solidity	Solidity	
-powershell	27		PowerShell	PowerShell	
-delphi	26	Delphi/Object Pascal	#N/A	Delphi/Object Pascal	
-objective-c	24		Objective-C	Objective-C	
-smalltalk	19		Smalltalk	Smalltalk	
-elixir	15		Elixir	Elixir	
-genexus	15	Bussines solution	#N/A	Bussines solution	
-matlab	15		MATLAB	MATLAB	
-apex	14		Apex	Apex	
-terraform	13	IAC	#N/A	IAC	
-assembler	12	Assembly language	#N/A	Assembly language	
-dax	8	Bussines analytics	#N/A	Bussines analytics	
-ansible	7	IAC	#N/A	IAC	
-pl/sql	7		PL/SQL	PL/SQL	
-clojure	7		Clojure	Clojure	
-erlang	6		Erlang	Erlang	
-xml	4	markup	#N/A	markup	
-react	3	JavaScript	#N/A	JavaScript	
-sas	3		SAS	SAS	
-al	3	Not Listed	#N/A	Not Listed	
-salesforce	3	Bussines solution	#N/A	Bussines solution	
-plsql	3	PL/SQL	#N/A	PL/SQL	
-bash	3		Bash	Bash	
-visual foxpro	3	(Visual) FoxPro	#N/A	(Visual) FoxPro	
-vb6	3	Visual Basic	#N/A	Visual Basic	
-x++	3		X++	X++	
-.	3	NA	#N/A	NA	
-ninguna	3	NA	#N/A	NA	
-power bi	2	Bussines analytics	#N/A	Bussines analytics	
-no	2	NA	#N/A	NA	
-oracle	2	Database	#N/A	Database	
-rpg	2		RPG	RPG	
-figma	2	Not Listed	#N/A	Not Listed	
--	2	NA	#N/A	NA	
-mulesoft	2	Bussines solution	#N/A	Bussines solution	
-ninguno	2	NA	#N/A	NA	
-stata	2		Stata	Stata	
-rpgle	2	Not Listed	#N/A	Not Listed	
-apex salesforce	2	Bussines solution	#N/A	Bussines solution	
-gosu	2		Gosu	Gosu	
-lua	2		Lua	Lua	
-hcl	2	IAC	#N/A	IAC	
-actionscript	2		ActionScript	ActionScript	
-pl sql	2	PL/SQL	#N/A	PL/SQL	
-no programo	2	NA	#N/A	NA	
-esql	2	Not Listed	#N/A	Not Listed	
-4 y freerpg	1	Not Listed	#N/A	Not Listed	
-nodejs	1	JavaScript	#N/A	JavaScript	
-haskell	1		Haskell	Haskell	
-puesto no requiere estas herramientas soy jefa de comunicaciones	1	NA	#N/A	NA	
-sql server	1	Database	#N/A	Database	
-vbscript	1		VBScript	VBScript	
-windows powershell	1	powershell	#N/A	powershell	
-kql kusto	1	Not Listed	#N/A	Not Listed	
-pascal	1	Delphi/Object Pascal	#N/A	Delphi/Object Pascal	
-ile rpg	1	Not Listed	#N/A	Not Listed	
-power builder	1	Bussines solution	#N/A	Bussines solution	
-salesforce core y vlocity omnistudio	1	Bussines solution	#N/A	Bussines solution	
-no code	1	NA	#N/A	NA	
-mikrotik	1	IAC	#N/A	IAC	
-jd edwards	1	Bussines solution	#N/A	Bussines solution	
-rpg ibm / sql db2	1	Bussines solution	#N/A	Bussines solution	
-powerbuilder	1	Bussines solution	#N/A	Bussines solution	
-hfsql	1	Not Listed	#N/A	Not Listed	
-outsystems (low code)	1	Bussines solution	#N/A	Bussines solution	
-rpg 3	1	main frame	#N/A	main frame	
-0	1	NA	#N/A	NA	
-visual fox pro	1	(Visual) FoxPro	#N/A	(Visual) FoxPro	
-oracle siebel	1	Bussines solution	#N/A	Bussines solution	
-x	1	NA	#N/A	NA	
-dax de powerbi	1	Bussines analytics	#N/A	Bussines analytics	
-progress	1	Not Listed	#N/A	Not Listed	
-progress abl	1	Not Listed	#N/A	Not Listed	
-ui5	1	Not Listed	#N/A	Not Listed	
-fiori	1	Not Listed	#N/A	Not Listed	
-pi/po	1	Not Listed	#N/A	Not Listed	
-jenkin	1	IAC	#N/A	IAC	
-vb net	1	Visual Basic	#N/A	Visual Basic	
-en mi caso uso mínimo para cuestiones de ajustes	1	NA	#N/A	NA	
-pentaho	1	Bussines solution	#N/A	Bussines solution	
-solo hago gestion	1	NA	#N/A	NA	
-oracle developer	1	Bussines solution	#N/A	Bussines solution	
-aws cli	1	IAC	#N/A	IAC	
-azure cli	1	IAC	#N/A	IAC	
-gdscript	1	Not Listed	#N/A	Not Listed	
-qik	1	Not Listed	#N/A	Not Listed	
-salesforce apex	1	Bussines solution	#N/A	Bussines solution	
-gas	1	Not Listed	#N/A	Not Listed	
-json	1	markup	#N/A	markup	
-visual foxpro 9.0	1	(Visual) FoxPro	#N/A	(Visual) FoxPro	
-asp classic	1	Visual Basic	#N/A	Visual Basic	* Personal selection
-management job	1	NA	#N/A	NA	
-tosca	1	Not Listed	#N/A	Not Listed	
-oracle jd edwards	1	Bussines solution	#N/A	Bussines solution	
-photoshop	1	Designer	#N/A	Designer	
-illustrator.	1	Designer	#N/A	Designer	
-xquery	1	DevSupportQueryTool	XQuery	XQuery	
-xpath	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	
-no estoy dentro de tecnología	1	NA	#N/A	NA	
-xaml	1	markup	#N/A	markup	
-cloudformation	1	IAC	#N/A	IAC	
-jbase	1	Not Listed	#N/A	Not Listed	
-kusto	1	Not Listed	#N/A	Not Listed	
-talend	1	Not Listed	#N/A	Not Listed	
-..	1	NA	#N/A	NA	
-vfp	1	(Visual) FoxPro	#N/A	(Visual) FoxPro	
-no utilizo lenguajes de programación	1	NA	#N/A	NA	
-mongo	1	Database	#N/A	Database	
-snowdrop engine	1	Gaming Engine	#N/A	Gaming Engine	
-unreal engine	1	Gaming Engine	#N/A	Gaming Engine	
-cg	1	Not Listed	#N/A	Not Listed	
-glsl	1		GLSL	GLSL	
-hlsl	1	Not Listed	#N/A	Not Listed	
-dax; m	1	Not Listed	#N/A	Not Listed	
-ampscript	1	Not Listed	#N/A	Not Listed	
-power fx	1	Not Listed	#N/A	Not Listed	
-visual basic	1		Visual Basic	Visual Basic	
-bash es un lenguaje? :)	1	NA	#N/A	NA	
-qlik sense	1	Not Listed	#N/A	Not Listed	
-natural mainframe	1	main frame	#N/A	main frame	
-yaml	1	markup	#N/A	markup	
-oracle jde)	1	Database	#N/A	Database	
-erp (oracle cloud	1	Bussines solution	#N/A	Bussines solution	
-asp	1	Visual Basic	#N/A	Visual Basic	* Personal selection
-no aplica a mi puesto	1	NA	#N/A	NA	
-bash script	1	bash	#N/A	bash	
-no accedo directamente a ninguna plataforma. tampoco desarrollo.	1	NA	#N/A	NA	
-por mi rol	1	NA	#N/A	NA	
-appscript	1	Not Listed	#N/A	Not Listed	
-edi	1	Not Listed	#N/A	Not Listed	EDI is an acronym for electronic data interchange.
-xslt	1	markup	XSLT	XSLT	
-utilizamos lenguajes exclusivos de la herramienta de ibm que utilizamos	1	Bussines solution	#N/A	Bussines solution	
-soa/osb	1	Not Listed	#N/A	Not Listed	
-visualforce	1	Bussines solution	#N/A	Bussines solution	
-sql developer	1	SQL	#N/A	SQL	
-pl-sql	1	PL/SQL	#N/A	PL/SQL	
-oracle apex	1	Bussines solution	#N/A	Bussines solution	
-custom engines.	1	Not Listed	#N/A	Not Listed	
-bml	1	Not Listed	#N/A	Not Listed	
-gherkin	1	DSL	#N/A	DSL	
-deluge	1	Not Listed	#N/A	Not Listed	
-4js	1	Bussines solution	#N/A	Bussines solution	
-qlikview superset airflow nifi	1	Bussines analytics	#N/A	Bussines analytics	
-no aplica	1	NA	#N/A	NA	
-lookerml	1	Not Listed	#N/A	Not Listed	
-hacklang	1	Not Listed	#N/A	Not Listed	
-apex (lenguaje de salesforce)	1	Bussines solution	#N/A	Bussines solution	
-jcl	1	main frame	#N/A	main frame	Job Control Language is a name for scripting languages used on IBM mainframe operating systems to instruct the system on how to run a batch job or start a subsystem
-aql	1	Not Listed	#N/A	Not Listed	IBM - The Ariel Query Language (AQL) is a structured query language that you use to communicate with the Ariel databases
-jql	1	Bussines solution	#N/A	Bussines solution	
-salesforce/apex	1	Bussines solution	#N/A	Bussines solution	
-spl	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	Splunk Search Processing Language
-eql	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	
-m	1	Not Listed	#N/A	Not Listed	
-powerbi	1	Bussines analytics	#N/A	Bussines analytics	
-plsql y tsql	1	PL/SQL, Transact-SQL	#N/A	PL/SQL, Transact-SQL	
-xsl	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	
-node	1	JavaScript	#N/A	JavaScript	
-entornos webs y de consola	1	Not Listed	#N/A	Not Listed	
-sap fi	1	Bussines solution	#N/A	Bussines solution	
-graphql	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	
-postgresql	1	Database	#N/A	Database	
-sqr	1	Bussines analytics	SQR	SQR	
-bash powershell	1	powershell, bash	#N/A	powershell, bash	
-ecmascript	1		ECMAScript	ECMAScript	
-xml. yaml.	1	markup	#N/A	markup	
-css y tester qa	1	markup	#N/A	markup	
-html javascript	1	JavaScript, markup	#N/A	JavaScript, markup	
-no solo hice cursos de sql	1	NA	#N/A	NA	
-powerscript	1		PowerScript	PowerScript	
+frequency	count	LangFixed	TiobeMatch	LangFinal	TiobeOrder	Category	Comment
+sql	2502		SQL	SQL	9	Data processing	
+javascript	2281		JavaScript	JavaScript	6	General purpouse	
+html	1642	markup	#N/A	markup	1000	support lang	
+python	1623		Python	Python	1	General purpouse	
+css	1108	markup	#N/A	markup	1000	support lang	
+java	1075		Java	Java	4	General purpouse	
+typescript	1061		TypeScript	TypeScript	48	General purpouse	
+	965	NA	#N/A	NA	1000	NA	
+bash/shell	898	bash	#N/A	bash	56	support lang	
+.net	688	Visual Basic	#N/A	Visual Basic	8	General purpouse	
+php	668		PHP	PHP	17	General purpouse	
+c#	586		C#	C#	5	General purpouse	
+go	314		Go	Go	7	General purpouse	
+vba	182	Visual Basic	#N/A	Visual Basic	8	General purpouse	
+c++	164		C++	C++	3	General purpouse	
+kotlin	144		Kotlin	Kotlin	18	General purpouse	
+c	111		C	C	2	General purpouse	
+groovy	109		Groovy	Groovy	71	General purpouse	
+r	96		R	R	20	Data processing	
+ruby	91		Ruby	Ruby	13	General purpouse	
+arduino	59	C++	#N/A	C++	3	General purpouse	Arduino uses a variant of the C++ programming language. The code is written in C++ with an addition of special methods and functions.
+scala	58		Scala	Scala	33	General purpouse	
+cobol	57		COBOL	COBOL	21	Main frame	
+swift	54		Swift	Swift	14	mobile	
+abap	52		ABAP	ABAP	47	Bussines solution	
+dart	39		Dart	Dart	28	General purpouse	
+perl	34		Perl	Perl	23	support lang	
+rust	33		Rust	Rust	19	General purpouse	
+solidity	29		Solidity	Solidity	96	block chain	
+powershell	27		PowerShell	PowerShell	89	support lang	
+delphi	26	Delphi/Object Pascal	#N/A	Delphi/Object Pascal	11	General purpouse	
+objective-c	24		Objective-C	Objective-C	30	mobile	
+smalltalk	19		Smalltalk	Smalltalk	94	General purpouse	
+elixir	15		Elixir	Elixir	69	General purpouse	
+genexus	15	genexus	#N/A	genexus	1000	Bussines solution	
+matlab	15		MATLAB	MATLAB	16	Data processing	
+apex	14		Apex	Apex	53	Bussines solution	
+terraform	13	IAC	#N/A	IAC	1000	IAC	
+assembler	12	Assembly language	#N/A	Assembly language	12	General purpouse	
+dax	8	powerbi	#N/A	powerbi	1000	Bussines analytics	
+ansible	7	IAC	#N/A	IAC	1000	IAC	
+pl/sql	7		PL/SQL	PL/SQL	45	Data processing	
+clojure	7		Clojure	Clojure	64	General purpouse	
+erlang	6		Erlang	Erlang	46	General purpouse	
+xml	4	markup	#N/A	markup	1000	support lang	
+react	3	JavaScript	#N/A	JavaScript	6	General purpouse	
+sas	3		SAS	SAS	25	Data processing	
+al	3	al	#N/A	al	1000	Not Listed	
+salesforce	3	salesforce	#N/A	salesforce	1000	Bussines solution	
+plsql	3	PL/SQL	#N/A	PL/SQL	45	Data processing	
+bash	3		Bash	Bash	56	support lang	
+visual foxpro	3	(Visual) FoxPro	#N/A	(Visual) FoxPro	37	General purpouse	
+vb6	3	Visual Basic	#N/A	Visual Basic	8	General purpouse	
+x++	3		X++	X++	100	Bussines solution	
+.	3	NA	#N/A	NA	1000	NA	
+ninguna	3	NA	#N/A	NA	1000	NA	
+power bi	2	powerbi	#N/A	powerbi	1000	Bussines analytics	
+no	2	NA	#N/A	NA	1000	NA	
+oracle	2	Database	#N/A	Database	1000	Database	
+rpg	2		RPG	RPG	49	main frame	
+figma	2	figma	#N/A	figma	1000	Not Listed	
+-	2	NA	#N/A	NA	1000	NA	
+mulesoft	2	salesforce	#N/A	salesforce	1000	Bussines solution	
+ninguno	2	NA	#N/A	NA	1000	NA	
+stata	2		Stata	Stata	101	Data processing	
+rpgle	2	rpgle	#N/A	rpgle	1000	Not Listed	
+apex salesforce	2	salesforce	#N/A	salesforce	1000	Bussines solution	
+gosu	2		Gosu	Gosu	101	General purpouse	
+lua	2		Lua	Lua	31	General purpouse	
+hcl	2	IAC	#N/A	IAC	1000	IAC	
+actionscript	2		ActionScript	ActionScript	52	JavaScript for flash	
+pl sql	2	PL/SQL	#N/A	PL/SQL	45	Data processing	
+no programo	2	NA	#N/A	NA	1000	NA	
+esql	2	esql	#N/A	esql	1000	Not Listed	
+4 y freerpg	1	freerpg	#N/A	freerpg	1000	Not Listed	
+nodejs	1	JavaScript	#N/A	JavaScript	6	General purpouse	
+haskell	1		Haskell	Haskell	27	General purpouse	
+puesto no requiere estas herramientas soy jefa de comunicaciones	1	NA	#N/A	NA	1000	NA	
+sql server	1	Database	#N/A	Database	1000	Database	
+vbscript	1		VBScript	VBScript	39	General purpouse	
+windows powershell	1	powershell	#N/A	powershell	89	support lang	
+kql kusto	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	1000	support lang	
+pascal	1	Delphi/Object Pascal	#N/A	Delphi/Object Pascal	11	General purpouse	
+ile rpg	1	ile rpg	#N/A	ile rpg	1000	Not Listed	
+power builder	1	Microsoft	#N/A	Microsoft	1000	Bussines solution	
+salesforce core y vlocity omnistudio	1	salesforce	#N/A	salesforce	1000	Bussines solution	
+no code	1	NA	#N/A	NA	1000	NA	
+mikrotik	1	IAC	#N/A	IAC	1000	IAC	
+jd edwards	1	Oracle	#N/A	Oracle	1000	Bussines solution	
+rpg ibm / sql db2	1	IBM	#N/A	IBM	1000	Bussines solution	
+powerbuilder	1	Microsoft	#N/A	Microsoft	1000	Bussines solution	
+hfsql	1	hfsql	#N/A	hfsql	1000	Not Listed	
+outsystems (low code)	1	outsystems	#N/A	outsystems	1000	Bussines solution	
+rpg 3	1	main frame	#N/A	main frame	1000	main frame	
+0	1	NA	#N/A	NA	1000	NA	
+visual fox pro	1	(Visual) FoxPro	#N/A	(Visual) FoxPro	37	General purpouse	
+oracle siebel	1	Oracle	#N/A	Oracle	1000	Bussines solution	
+x	1	NA	#N/A	NA	1000	NA	
+dax de powerbi	1	powerbi	#N/A	powerbi	1000	Bussines analytics	
+progress	1	progress	#N/A	progress	1000	Not Listed	
+progress abl	1	progress abl	#N/A	progress abl	1000	Not Listed	
+ui5	1	ui5	#N/A	ui5	1000	Not Listed	
+fiori	1	fiori	#N/A	fiori	1000	Not Listed	
+pi/po	1	pi/po	#N/A	pi/po	1000	Not Listed	
+jenkin	1	IAC	#N/A	IAC	1000	IAC	
+vb net	1	Visual Basic	#N/A	Visual Basic	8	General purpouse	
+en mi caso uso mínimo para cuestiones de ajustes	1	NA	#N/A	NA	1000	NA	
+pentaho	1	pentaho	#N/A	pentaho	1000	Bussines analytics	
+solo hago gestion	1	NA	#N/A	NA	1000	NA	
+oracle developer	1	Oracle	#N/A	Oracle	1000	Bussines solution	
+aws cli	1	IAC	#N/A	IAC	1000	IAC	
+azure cli	1	IAC	#N/A	IAC	1000	IAC	
+gdscript	1	gdscript	#N/A	gdscript	1000	Not Listed	
+qik	1	qik	#N/A	qik	1000	Not Listed	
+salesforce apex	1	Salesforce	#N/A	Salesforce	1000	Bussines solution	
+gas	1	gas	#N/A	gas	1000	Not Listed	
+json	1	markup	#N/A	markup	1000	support lang	
+visual foxpro 9.0	1	(Visual) FoxPro	#N/A	(Visual) FoxPro	37	General purpouse	
+asp classic	1	Visual Basic	#N/A	Visual Basic	8	General purpouse	* Personal selection
+management job	1	NA	#N/A	NA	1000	NA	
+tosca	1	tosca	#N/A	tosca	1000	Not Listed	
+oracle jd edwards	1	Oracle	#N/A	Oracle	1000	Bussines solution	
+photoshop	1	photoshop	#N/A	photoshop	1000	Graphic Designer	
+illustrator.	1	illustrator	#N/A	illustrator	1000	Graphic Designer	
+xquery	1	DevSupportQueryTool	XQuery	DevSupportQueryTool	1000	support lang	
+xpath	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	1000	support lang	
+no estoy dentro de tecnología	1	NA	#N/A	NA	1000	NA	
+xaml	1	markup	#N/A	markup	1000	support lang	
+cloudformation	1	IAC	#N/A	IAC	1000	IAC	
+jbase	1	jbase	#N/A	jbase	1000	Not Listed	
+kusto	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	1000	support lang	
+talend	1	talend	#N/A	talend	1000	Not Listed	
+..	1	NA	#N/A	NA	1000	NA	
+vfp	1	(Visual) FoxPro	#N/A	(Visual) FoxPro	37	General purpouse	
+no utilizo lenguajes de programación	1	NA	#N/A	NA	1000	NA	
+mongo	1	Database	#N/A	Database	1000	Database	
+snowdrop engine	1	Gaming Engine	#N/A	Gaming Engine	1000	Gaming Engine	
+unreal engine	1	Gaming Engine	#N/A	Gaming Engine	1000	Gaming Engine	
+cg	1	cg	#N/A	cg	1000	Not Listed	
+glsl	1		GLSL	GLSL	101	Gaming Engine	
+hlsl	1	hlsl	#N/A	hlsl	1000	Not Listed	
+dax; m	1	powerbi	#N/A	powerbi	1000	Not Listed	
+ampscript	1	ampscript	#N/A	ampscript	1000	Not Listed	
+power fx	1	power fx	#N/A	power fx	1000	Not Listed	
+visual basic	1		Visual Basic	Visual Basic	8	General purpouse	
+bash es un lenguaje? :)	1	NA	#N/A	NA	1000	NA	
+qlik sense	1	qlik sense	#N/A	qlik sense	1000	Not Listed	
+natural mainframe	1	main frame	#N/A	main frame	1000	main frame	
+yaml	1	markup	#N/A	markup	1000	support lang	
+oracle jde)	1	Database	#N/A	Database	1000	Database	
+erp (oracle cloud	1	Oracle	#N/A	Oracle	1000	Bussines solution	
+asp	1	Visual Basic	#N/A	Visual Basic	8	General purpouse	* Personal selection
+no aplica a mi puesto	1	NA	#N/A	NA	1000	NA	
+bash script	1	bash	#N/A	bash	56	support lang	
+no accedo directamente a ninguna plataforma. tampoco desarrollo.	1	NA	#N/A	NA	1000	NA	
+por mi rol	1	NA	#N/A	NA	1000	NA	
+appscript	1	appscript	#N/A	appscript	1000	Not Listed	
+edi	1	edi	#N/A	edi	1000	Not Listed	EDI is an acronym for electronic data interchange.
+xslt	1	markup	XSLT	markup	1000	support lang	
+utilizamos lenguajes exclusivos de la herramienta de ibm que utilizamos	1	IBM	#N/A	IBM	1000	Bussines solution	
+soa/osb	1	soa/osb	#N/A	soa/osb	1000	Not Listed	
+visualforce	1	Salesforce	#N/A	Salesforce	1000	Bussines solution	
+sql developer	1	SQL	#N/A	SQL	9	Data processing	
+pl-sql	1	PL/SQL	#N/A	PL/SQL	45	Data processing	
+oracle apex	1	Bussines solution	#N/A	Bussines solution	1000	Bussines solution	
+custom engines.	1	custom engines.	#N/A	custom engines.	1000	Not Listed	
+bml	1	bml	#N/A	bml	1000	Not Listed	
+gherkin	1	DSL	#N/A	DSL	1000	support lang	
+deluge	1	deluge	#N/A	deluge	1000	Not Listed	
+4js	1	4js	#N/A	4js	1000	Bussines solution	
+qlikview superset airflow nifi	1	qlikview	#N/A	qlikview	1000	Bussines analytics	
+qlikview superset airflow nifi	1	superset	#N/A	superset	1000	Bussines analytics	
+qlikview superset airflow nifi	1	airflow	#N/A	airflow	1000	Bussines analytics	
+qlikview superset airflow nifi	1	nifi	#N/A	nifi	1000	Bussines analytics	
+no aplica	1	NA	#N/A	NA	1000	NA	
+lookerml	1	lookerml	#N/A	lookerml	1000	Not Listed	
+hacklang	1	hacklang	#N/A	hacklang	1000	Not Listed	
+apex (lenguaje de salesforce)	1	salesforce	#N/A	salesforce	1000	Bussines solution	
+jcl	1	main frame	#N/A	main frame	1000	main frame	Job Control Language is a name for scripting languages used on IBM mainframe operating systems to instruct the system on how to run a batch job or start a subsystem
+aql	1	aql	#N/A	aql	1000	Not Listed	IBM - The Ariel Query Language (AQL) is a structured query language that you use to communicate with the Ariel databases
+jql	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	1000	support lang	
+salesforce/apex	1	salesforce	#N/A	salesforce	1000	Bussines solution	
+spl	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	1000	support lang	Splunk Search Processing Language
+eql	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	1000	support lang	
+m	1	m	#N/A	m	1000	Not Listed	
+powerbi	1	powerbi	#N/A	powerbi	1000	Bussines analytics	
+plsql y tsql	1	Transact-SQL	#N/A	Transact-SQL	35	Data processing	
+plsql y tsql	1	PL/SQL	#N/A	PL/SQL	45	Data processing	
+xsl	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	1000	support lang	
+node	1	JavaScript	#N/A	JavaScript	6	General purpouse	
+entornos webs y de consola	1	NA	#N/A	NA	1000	Not Listed	
+sap fi	1	SAP	#N/A	SAP	1000	Bussines solution	
+graphql	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	1000	support lang	
+postgresql	1	Database	#N/A	Database	1000	Database	
+sqr	1	Oracle	SQR	Oracle	1000	Bussines analytics	
+bash powershell	1	bash	#N/A	bash	56	support lang	
+bash powershell	1	powershell	#N/A	powershell	89	support lang	
+ecmascript	1	javascript	ECMAScript	javascript	6	General purpouse	
+xml. yaml.	1	markup	#N/A	markup	1000	support lang	
+css y tester qa	1	markup	#N/A	markup	1000	support lang	
+html javascript	1	JavaScript	#N/A	JavaScript	6	General purpouse	
+html javascript	1	markup	#N/A	markup	1000	support lang	
+no solo hice cursos de sql	1	NA	#N/A	NA	1000	NA	
+powerscript	1		PowerScript	PowerScript	101	General purpouse	
