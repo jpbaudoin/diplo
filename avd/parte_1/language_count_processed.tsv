@@ -1,0 +1,199 @@
+frequency	count	LangFixed	TiobeMatch	LangFinal	Comment
+sql	2502		SQL	SQL	
+javascript	2281		JavaScript	JavaScript	
+html	1642	markup	#N/A	markup	
+python	1623		Python	Python	
+css	1108	markup	#N/A	markup	
+java	1075		Java	Java	
+typescript	1061		TypeScript	TypeScript	
+	965	NA	#N/A	NA	
+bash/shell	898	bash	#N/A	bash	
+.net	688	Visual Basic	#N/A	Visual Basic	
+php	668		PHP	PHP	
+c#	586		C#	C#	
+go	314		Go	Go	
+vba	182	Visual Basic	#N/A	Visual Basic	
+c++	164		C++	C++	
+kotlin	144		Kotlin	Kotlin	
+c	111		C	C	
+groovy	109		Groovy	Groovy	
+r	96		R	R	
+ruby	91		Ruby	Ruby	
+arduino	59	C++	#N/A	C++	Arduino uses a variant of the C++ programming language. The code is written in C++ with an addition of special methods and functions.
+scala	58		Scala	Scala	
+cobol	57		COBOL	COBOL	
+swift	54		Swift	Swift	
+abap	52		ABAP	ABAP	
+dart	39		Dart	Dart	
+perl	34		Perl	Perl	
+rust	33		Rust	Rust	
+solidity	29		Solidity	Solidity	
+powershell	27		PowerShell	PowerShell	
+delphi	26	Delphi/Object Pascal	#N/A	Delphi/Object Pascal	
+objective-c	24		Objective-C	Objective-C	
+smalltalk	19		Smalltalk	Smalltalk	
+elixir	15		Elixir	Elixir	
+genexus	15	Bussines solution	#N/A	Bussines solution	
+matlab	15		MATLAB	MATLAB	
+apex	14		Apex	Apex	
+terraform	13	IAC	#N/A	IAC	
+assembler	12	Assembly language	#N/A	Assembly language	
+dax	8	Bussines analytics	#N/A	Bussines analytics	
+ansible	7	IAC	#N/A	IAC	
+pl/sql	7		PL/SQL	PL/SQL	
+clojure	7		Clojure	Clojure	
+erlang	6		Erlang	Erlang	
+xml	4	markup	#N/A	markup	
+react	3	JavaScript	#N/A	JavaScript	
+sas	3		SAS	SAS	
+al	3	Not Listed	#N/A	Not Listed	
+salesforce	3	Bussines solution	#N/A	Bussines solution	
+plsql	3	PL/SQL	#N/A	PL/SQL	
+bash	3		Bash	Bash	
+visual foxpro	3	(Visual) FoxPro	#N/A	(Visual) FoxPro	
+vb6	3	Visual Basic	#N/A	Visual Basic	
+x++	3		X++	X++	
+.	3	NA	#N/A	NA	
+ninguna	3	NA	#N/A	NA	
+power bi	2	Bussines analytics	#N/A	Bussines analytics	
+no	2	NA	#N/A	NA	
+oracle	2	Database	#N/A	Database	
+rpg	2		RPG	RPG	
+figma	2	Not Listed	#N/A	Not Listed	
+-	2	NA	#N/A	NA	
+mulesoft	2	Bussines solution	#N/A	Bussines solution	
+ninguno	2	NA	#N/A	NA	
+stata	2		Stata	Stata	
+rpgle	2	Not Listed	#N/A	Not Listed	
+apex salesforce	2	Bussines solution	#N/A	Bussines solution	
+gosu	2		Gosu	Gosu	
+lua	2		Lua	Lua	
+hcl	2	IAC	#N/A	IAC	
+actionscript	2		ActionScript	ActionScript	
+pl sql	2	PL/SQL	#N/A	PL/SQL	
+no programo	2	NA	#N/A	NA	
+esql	2	Not Listed	#N/A	Not Listed	
+4 y freerpg	1	Not Listed	#N/A	Not Listed	
+nodejs	1	JavaScript	#N/A	JavaScript	
+haskell	1		Haskell	Haskell	
+puesto no requiere estas herramientas soy jefa de comunicaciones	1	NA	#N/A	NA	
+sql server	1	Database	#N/A	Database	
+vbscript	1		VBScript	VBScript	
+windows powershell	1	powershell	#N/A	powershell	
+kql kusto	1	Not Listed	#N/A	Not Listed	
+pascal	1	Delphi/Object Pascal	#N/A	Delphi/Object Pascal	
+ile rpg	1	Not Listed	#N/A	Not Listed	
+power builder	1	Bussines solution	#N/A	Bussines solution	
+salesforce core y vlocity omnistudio	1	Bussines solution	#N/A	Bussines solution	
+no code	1	NA	#N/A	NA	
+mikrotik	1	IAC	#N/A	IAC	
+jd edwards	1	Bussines solution	#N/A	Bussines solution	
+rpg ibm / sql db2	1	Bussines solution	#N/A	Bussines solution	
+powerbuilder	1	Bussines solution	#N/A	Bussines solution	
+hfsql	1	Not Listed	#N/A	Not Listed	
+outsystems (low code)	1	Bussines solution	#N/A	Bussines solution	
+rpg 3	1	main frame	#N/A	main frame	
+0	1	NA	#N/A	NA	
+visual fox pro	1	(Visual) FoxPro	#N/A	(Visual) FoxPro	
+oracle siebel	1	Bussines solution	#N/A	Bussines solution	
+x	1	NA	#N/A	NA	
+dax de powerbi	1	Bussines analytics	#N/A	Bussines analytics	
+progress	1	Not Listed	#N/A	Not Listed	
+progress abl	1	Not Listed	#N/A	Not Listed	
+ui5	1	Not Listed	#N/A	Not Listed	
+fiori	1	Not Listed	#N/A	Not Listed	
+pi/po	1	Not Listed	#N/A	Not Listed	
+jenkin	1	IAC	#N/A	IAC	
+vb net	1	Visual Basic	#N/A	Visual Basic	
+en mi caso uso mínimo para cuestiones de ajustes	1	NA	#N/A	NA	
+pentaho	1	Bussines solution	#N/A	Bussines solution	
+solo hago gestion	1	NA	#N/A	NA	
+oracle developer	1	Bussines solution	#N/A	Bussines solution	
+aws cli	1	IAC	#N/A	IAC	
+azure cli	1	IAC	#N/A	IAC	
+gdscript	1	Not Listed	#N/A	Not Listed	
+qik	1	Not Listed	#N/A	Not Listed	
+salesforce apex	1	Bussines solution	#N/A	Bussines solution	
+gas	1	Not Listed	#N/A	Not Listed	
+json	1	markup	#N/A	markup	
+visual foxpro 9.0	1	(Visual) FoxPro	#N/A	(Visual) FoxPro	
+asp classic	1	Visual Basic	#N/A	Visual Basic	* Personal selection
+management job	1	NA	#N/A	NA	
+tosca	1	Not Listed	#N/A	Not Listed	
+oracle jd edwards	1	Bussines solution	#N/A	Bussines solution	
+photoshop	1	Designer	#N/A	Designer	
+illustrator.	1	Designer	#N/A	Designer	
+xquery	1	DevSupportQueryTool	XQuery	XQuery	
+xpath	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	
+no estoy dentro de tecnología	1	NA	#N/A	NA	
+xaml	1	markup	#N/A	markup	
+cloudformation	1	IAC	#N/A	IAC	
+jbase	1	Not Listed	#N/A	Not Listed	
+kusto	1	Not Listed	#N/A	Not Listed	
+talend	1	Not Listed	#N/A	Not Listed	
+..	1	NA	#N/A	NA	
+vfp	1	(Visual) FoxPro	#N/A	(Visual) FoxPro	
+no utilizo lenguajes de programación	1	NA	#N/A	NA	
+mongo	1	Database	#N/A	Database	
+snowdrop engine	1	Gaming Engine	#N/A	Gaming Engine	
+unreal engine	1	Gaming Engine	#N/A	Gaming Engine	
+cg	1	Not Listed	#N/A	Not Listed	
+glsl	1		GLSL	GLSL	
+hlsl	1	Not Listed	#N/A	Not Listed	
+dax; m	1	Not Listed	#N/A	Not Listed	
+ampscript	1	Not Listed	#N/A	Not Listed	
+power fx	1	Not Listed	#N/A	Not Listed	
+visual basic	1		Visual Basic	Visual Basic	
+bash es un lenguaje? :)	1	NA	#N/A	NA	
+qlik sense	1	Not Listed	#N/A	Not Listed	
+natural mainframe	1	main frame	#N/A	main frame	
+yaml	1	markup	#N/A	markup	
+oracle jde)	1	Database	#N/A	Database	
+erp (oracle cloud	1	Bussines solution	#N/A	Bussines solution	
+asp	1	Visual Basic	#N/A	Visual Basic	* Personal selection
+no aplica a mi puesto	1	NA	#N/A	NA	
+bash script	1	bash	#N/A	bash	
+no accedo directamente a ninguna plataforma. tampoco desarrollo.	1	NA	#N/A	NA	
+por mi rol	1	NA	#N/A	NA	
+appscript	1	Not Listed	#N/A	Not Listed	
+edi	1	Not Listed	#N/A	Not Listed	EDI is an acronym for electronic data interchange.
+xslt	1	markup	XSLT	XSLT	
+utilizamos lenguajes exclusivos de la herramienta de ibm que utilizamos	1	Bussines solution	#N/A	Bussines solution	
+soa/osb	1	Not Listed	#N/A	Not Listed	
+visualforce	1	Bussines solution	#N/A	Bussines solution	
+sql developer	1	SQL	#N/A	SQL	
+pl-sql	1	PL/SQL	#N/A	PL/SQL	
+oracle apex	1	Bussines solution	#N/A	Bussines solution	
+custom engines.	1	Not Listed	#N/A	Not Listed	
+bml	1	Not Listed	#N/A	Not Listed	
+gherkin	1	DSL	#N/A	DSL	
+deluge	1	Not Listed	#N/A	Not Listed	
+4js	1	Bussines solution	#N/A	Bussines solution	
+qlikview superset airflow nifi	1	Bussines analytics	#N/A	Bussines analytics	
+no aplica	1	NA	#N/A	NA	
+lookerml	1	Not Listed	#N/A	Not Listed	
+hacklang	1	Not Listed	#N/A	Not Listed	
+apex (lenguaje de salesforce)	1	Bussines solution	#N/A	Bussines solution	
+jcl	1	main frame	#N/A	main frame	Job Control Language is a name for scripting languages used on IBM mainframe operating systems to instruct the system on how to run a batch job or start a subsystem
+aql	1	Not Listed	#N/A	Not Listed	IBM - The Ariel Query Language (AQL) is a structured query language that you use to communicate with the Ariel databases
+jql	1	Bussines solution	#N/A	Bussines solution	
+salesforce/apex	1	Bussines solution	#N/A	Bussines solution	
+spl	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	Splunk Search Processing Language
+eql	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	
+m	1	Not Listed	#N/A	Not Listed	
+powerbi	1	Bussines analytics	#N/A	Bussines analytics	
+plsql y tsql	1	PL/SQL, Transact-SQL	#N/A	PL/SQL, Transact-SQL	
+xsl	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	
+node	1	JavaScript	#N/A	JavaScript	
+entornos webs y de consola	1	Not Listed	#N/A	Not Listed	
+sap fi	1	Bussines solution	#N/A	Bussines solution	
+graphql	1	DevSupportQueryTool	#N/A	DevSupportQueryTool	
+postgresql	1	Database	#N/A	Database	
+sqr	1	Bussines analytics	SQR	SQR	
+bash powershell	1	powershell, bash	#N/A	powershell, bash	
+ecmascript	1		ECMAScript	ECMAScript	
+xml. yaml.	1	markup	#N/A	markup	
+css y tester qa	1	markup	#N/A	markup	
+html javascript	1	JavaScript, markup	#N/A	JavaScript, markup	
+no solo hice cursos de sql	1	NA	#N/A	NA	
+powerscript	1		PowerScript	PowerScript	
